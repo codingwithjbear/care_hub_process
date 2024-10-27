@@ -1,4 +1,4 @@
-package com.example.client_hub_process.model;
+package com.example.care_hub_process.model;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;

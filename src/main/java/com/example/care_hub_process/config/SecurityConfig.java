@@ -1,4 +1,4 @@
-package com.example.client_hub_process.config;
+package com.example.care_hub_process.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

@@ -1,10 +1,10 @@
-package com.example.client_hub_process;
+package com.example.care_hub_process;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ClientHubProcessApplicationTests {
+class CareHubProcessApplicationTests {
 
 	@Test
 	void contextLoads() {

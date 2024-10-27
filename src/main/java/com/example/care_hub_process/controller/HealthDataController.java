@@ -1,9 +1,10 @@
-package com.example.client_hub_process.controller;
+package com.example.care_hub_process.controller;
 
-import com.example.client_hub_process.model.HealthData;
-import com.example.client_hub_process.repository.HealthDataRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
+
+import com.example.care_hub_process.model.HealthData;
+import com.example.care_hub_process.repository.HealthDataRepository;
 
 @RestController
 @RequestMapping("/api/healthdata")
